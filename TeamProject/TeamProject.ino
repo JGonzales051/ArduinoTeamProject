@@ -28,12 +28,12 @@ void loop()
   Serial.print(temperatureC); Serial.print(" degrees C  -  ");
   Serial.print(temperatureF); Serial.println(" degrees F");
 
-  if (temperatureF >= 90) {
+  if (temperatureF >= 85) {
     digitalWrite(greenLED, LOW);
     digitalWrite(yellowLED, LOW);
     digitalWrite(redLED, HIGH);
   }
-  else if (temperatureF >= 80 && temperatureF < 90) {
+  else if (temperatureF >= 80 && temperatureF < 85) {
     digitalWrite(greenLED, LOW);
     digitalWrite(yellowLED, HIGH);
     digitalWrite(redLED, LOW);
