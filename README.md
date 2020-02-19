@@ -10,3 +10,11 @@ Bylaws
 -Do not miss development days or else will  have to be driver for an extra day.
 -No overly communicating with other groups (chatty)
 -No cheating, group member caught cheating must leave the group and start their own project.
+
+https://www.youtube.com/watch?v=-OSM6DvhwvE
+
+https://create.arduino.cc/projecthub
+
+https://www.elithecomputerguy.com/2019/06/analog-temperature-sensor-led-alert-on-arduino/
+
+
